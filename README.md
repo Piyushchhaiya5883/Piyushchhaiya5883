@@ -11,15 +11,10 @@ I'm a results-driven Data Analyst and BI Developer passionate about transforming
 ## 👩‍💻 About Me
 
 - 🎓 Bachelor of Engineering — Artificial Intelligence & Data Science, Government Engineering College, Rajkot 
-
 - 📊 Passionate about Data Analysis, Business Intelligence, and Data Visualization
-
 - 💡 Skilled in transforming raw data into actionable, business-ready insights
-
 - 🛠️ Building end-to-end dashboards and analytics projects using Power BI, SQL, Python, and Tableau
-
 - 💼 2x Data Analytics Intern with hands-on experience across agriculture and sales domains
-
 - 🚀 Continuously learning and exploring Microsoft Fabric, Streamlit, and advanced DAX
 
 ---
@@ -85,7 +80,6 @@ I'm a results-driven Data Analyst and BI Developer passionate about transforming
 - 📈 Dashboard Development & Data Storytelling
 - 🔍 Discovering meaningful patterns in data
 - 💡 Turning data into actionable, business-ready insights
-
 - 🎯 Solving real-world business problems using data
 
 ---
