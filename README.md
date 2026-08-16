@@ -28,13 +28,9 @@ I'm a results-driven Data Analyst and BI Developer passionate about transforming
 
 ### 📊 Data Analysis & BI
 - Power BI
-
 - Microsoft Fabric
-
 - Tableau
-
 - Microsoft Excel
-
 - DAX
 
 ### 🐍 Programming & Libraries
