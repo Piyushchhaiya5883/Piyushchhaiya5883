@@ -1,6 +1,6 @@
-## Hi, I'm Piyush Chhaiya👋
+# Hi, I'm Piyush Chhaiya👋
 
-#### Data Analyst | BI Developer
+### Data Analyst | BI Developer
 
 I'm a results-driven Data Analyst and BI Developer passionate about transforming complex datasets into actionable insights and solving real-world business problems through data.
 
