@@ -2,6 +2,10 @@
 
 #### Data Analyst | BI Developer
 
+I'm a results-driven Data Analyst and BI Developer passionate about transforming complex datasets into actionable insights and solving real-world business problems through data.
+
+🎯 Career Goal: Seeking opportunities to grow as a Data Analyst / BI Developer and apply my analytical and technical skills to drive data-informed decisions in a professional environment.
+
 <!--
 **Piyushchhaiya5883/Piyushchhaiya5883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
