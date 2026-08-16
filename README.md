@@ -86,8 +86,8 @@ I'm a results-driven Data Analyst and BI Developer passionate about transforming
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
+[💼 LinkedIn](https://www.linkedin.com/in/piyush-chhaiya-810231317)
 
-🌐 Portfolio
+[🌐 Portfolio](https://github.com/Piyushchhaiya5883)
 
 📧 chhaiyapiyush5883@gmail.com
